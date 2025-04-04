@@ -2,7 +2,7 @@
 
 This repository contains the different models I trained and tested as part of a Kaggle competition focused on housing price prediction. It contains the different models I tested.
 
-## 🧠 Models Used
+## Models Used
 
 ### 1. Linear Regression
 Simple regression model, tested first on all available features (after having transformed textual data into numerical data), then refined and optimized.
@@ -15,7 +15,7 @@ Comparing the accuracy of trained models using different combinations of the mos
 Works better as the amount of non significant and inter-correlated Features allows for maximal dimension reduction without impacting data significance.
 I tuned the model by varying the dimensionality reduction settings and observing changes in prediction accuracy.
 
-## ✅ Next Steps
+## Next Steps
 - Introduce cross-validation to better evaluate model performance and improve model selection during optimization steps.
 
 
